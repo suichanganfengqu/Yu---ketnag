@@ -15,7 +15,7 @@
 
 5.在编辑器旁边找到设置下拉找到“为用户匹配”
 
-将https://changjiang.yuketang.cn/*粘贴进去
+将“https://changjiang.yuketang.cn/*”粘贴进去
 
 这样就完成配置了
 
